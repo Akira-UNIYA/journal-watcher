@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "url": "https://www.poms.org/sites/default/files/callforpapers/Call%20for%20paper%20with%20Extended%20Deadline.pdf",
+    "journal": "Production and Operations Management",
+    "theme": "New Supply Chain in Times of Turbulence",
+    "deadline": "2026-10-31",
+    "reported_at": "2026-10-10"
+  },
+  {
+    "url": "https://think.taylorandfrancis.com/special_issues/ai-driven-decision-making/",
+    "journal": "International Journal of Production Research",
+    "theme": "AI-Driven Decision Making under Uncertain Environments: Theory, Methods, and Industrial Applications",
+    "deadline": "2027-01-31",
+    "reported_at": "2026-10-10"
+  },
+  {
+    "url": "https://connect.aom.org/discussion/jpim-si-communicating-framing-innovation-in-the-era-of-generative-ai-online-information-session",
+    "journal": "Journal of Product Innovation Management",
+    "theme": "Communicating & Framing Innovation in the Era of Generative AI",
+    "deadline": "2026-11-30",
+    "reported_at": "2026-10-10"
+  },
+  {
+    "url": "https://omt.aom.org/discussion/call-for-papers-special-issue-jpim-radical-innovation-in-the-creative-industries",
+    "journal": "Journal of Product Innovation Management",
+    "theme": "Radical Innovation in the Creative Industries",
+    "deadline": "2026-12-31",
+    "reported_at": "2026-10-10"
+  }
+]
