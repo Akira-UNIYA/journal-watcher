@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "url": "https://www.poms.org/sites/default/files/callforpapers/Call%20for%20paper%20with%20Extended%20Deadline.pdf",
+    "journal": "Production and Operations Management",
+    "abdc": "A*",
+    "theme": "New Supply Chain in Times of Turbulence",
+    "deadline": "2026-10-31",
+    "reported_at": "2026-10-17"
+  },
+  {
+    "url": "https://think.taylorandfrancis.com/special_issues/ai-driven-decision-making/",
+    "journal": "International Journal of Production Research",
+    "abdc": "A",
+    "theme": "AI-Driven Decision Making under Uncertain Environments: Theory, Methods, and Industrial Applications",
+    "deadline": "2027-01-31",
+    "reported_at": "2026-10-17"
+  },
+  {
+    "url": "https://think.taylorandfrancis.com/special_issues/ijpr-kathryn-stecke/",
+    "journal": "International Journal of Production Research",
+    "abdc": "A",
+    "theme": "Celebrating Prof. Kathryn E. Stecke - Flexible Manufacturing, Production Planning, and Supply Chain Management",
+    "deadline": "2026-10-31",
+    "reported_at": "2026-10-17"
+  },
+  {
+    "url": "https://emeraldgrouppublishing.com/calls-for-papers/transversalities-artificial-intelligence-innovation-and-sustainability",
+    "journal": "International Journal of Innovation Science",
+    "abdc": "B",
+    "theme": "Transversalities of Artificial Intelligence, Innovation and Sustainability",
+    "deadline": "2026-11-30",
+    "reported_at": "2026-10-17"
+  }
+]
